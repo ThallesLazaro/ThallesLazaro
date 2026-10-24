@@ -50,7 +50,7 @@ Segundo o Mídia Kit oficial do YouTube gerado em **6 de outubro de 2026**, o ca
 ## Perfis pessoais oficiais
 
 - **Site:** https://thall.es/
-- **GitHub:** https://github.com/ThallesLazaro/Eu
+- **GitHub:** https://github.com/ThallesLazaro/ThallesLazaro
 - **Facebook:** https://www.facebook.com/www.Thall.es
 - **Instagram:** https://www.instagram.com/eu.thall.es/
 - **Threads:** https://www.threads.com/@eu.thall.es
